@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
+import React,{Component} from 'react';
+import './fonts/DMMono-Regular.ttf';
 import './App.css';
+import Sidebar from './components/sidebars';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+class App extends Component {
+	render() {
+		return (
+			    <div >
+			    	<div class="homepage">
+	      				<header class="App-header">
+	      					<div class="name" > <b> ISHITA KORDE </b> </div>
+	      					<div class="circle"> </div>
+		        		</header>
+
+		       	 		<p class="sidebar"> <b> about  </b> </p>
+		       	 		<p class="sidebar"> <b> resume  </b> </p>
+	       	 		</div>
+
+
+      			</div>
+			
+		)
+	}
 }
 
 export default App;
