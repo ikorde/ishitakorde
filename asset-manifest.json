@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.1e85785c.chunk.css",
+    "main.js": "/personal-website/static/js/main.116cf609.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.116cf609.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.825d4a0c.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.825d4a0c.js.map",
+    "static/js/2.b0566f35.chunk.js": "/personal-website/static/js/2.b0566f35.chunk.js",
+    "static/js/2.b0566f35.chunk.js.map": "/personal-website/static/js/2.b0566f35.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.390df9db5af90d861cb77a845028e8ac.js": "/personal-website/precache-manifest.390df9db5af90d861cb77a845028e8ac.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.1e85785c.chunk.css.map": "/personal-website/static/css/main.1e85785c.chunk.css.map",
+    "static/js/2.b0566f35.chunk.js.LICENSE.txt": "/personal-website/static/js/2.b0566f35.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/personal-website/static/media/IBMPlexMono-Regular.cb46f1f1.ttf",
+    "static/media/Korde_Resume.pdf": "/personal-website/static/media/Korde_Resume.251328c2.pdf",
+    "static/media/gpu.jpg": "/personal-website/static/media/gpu.d845c450.jpg",
+    "static/media/graph_caltech.jpg": "/personal-website/static/media/graph_caltech.b4c0bb19.jpg",
+    "static/media/original_caltech.jpg": "/personal-website/static/media/original_caltech.933092a5.jpg",
+    "static/media/results2_caltech.jpg": "/personal-website/static/media/results2_caltech.c155c9a3.jpg",
+    "static/media/results_caltech.jpg": "/personal-website/static/media/results_caltech.62158af9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.825d4a0c.js",
+    "static/js/2.b0566f35.chunk.js",
+    "static/css/main.1e85785c.chunk.css",
+    "static/js/main.116cf609.chunk.js"
+  ]
+}
