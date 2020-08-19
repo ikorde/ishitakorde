@@ -1,5 +1,5 @@
 ## Personal Website
-Created and designed by Ishita Korde using ReactJS. 
+Created and designed by Ishita Korde using ReactJS and deployed with Heroku. Check it out here: www.ishitakorde.com  
 
 
 
