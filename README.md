@@ -1,3 +1,8 @@
+## Personal Website
+Created and designed by Ishita Korde using ReactJS. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
